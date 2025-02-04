@@ -9,6 +9,7 @@ public class output {
 		System.out.println("output3");
 		System.out.println("output4");
 		System.out.println("output5");
+		System.out.println("output6");
 		
 	}
 
